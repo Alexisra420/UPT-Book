@@ -1,0 +1,37 @@
+
+
+
+.img-producto{
+    width: 200px;
+    margin:auto;
+}
+
+.precio{
+    margin:0px,30px,20px,0px;
+    text-align: right;
+    font-family: "Rleway", sans-serif;
+    font-size: 20px;
+    color: #0062cc;
+    font-weight: bold;
+}
+
+.tachado{
+    margin:0px,20px,10px,0px;
+    text-align: right;
+    font-family: "Rleway", sans-serif;
+    font-size: 20px;
+    color: #e7192a;
+    text-decoration: line-through;
+}
+
+.icon-producto{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 20px;
+    font-size: 30px;
+    background: #d39e00;
+    padding: 10px;
+    border-radius: 100%;
+    color: white;
+}
